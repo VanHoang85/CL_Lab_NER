@@ -2,7 +2,7 @@ import argparse
 import os
 
 import torch
-from lstm import *
+from models import *
 import dataset
 import evaluation
 
